@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @enchant3dmango
+- 👋 Hi, I’m Andre Sitorus (@enchant3dmango)
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning working in Tokopedia as Data Engineer focusing in Data Ingestion
 
 <!---
 enchant3dmango/enchant3dmango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
